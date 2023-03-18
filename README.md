@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Python, PhP, React.js**
 
-- 👯 I’m looking for an **apprenticeship contract starting june 12 2023**
+- 👯 I’m looking for an **apprenticeship contract starting in june 2023**
 
 - 📫 How to reach me **hugo.rince@gmail.com**
 
