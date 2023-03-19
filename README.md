@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying Computer science at **Ada Tech School**
 
-- 🌱 I’m currently learning **JavaScript, Python, PhP, React.js**
+- 🌱 I’m currently learning **JavaScript, Python, PhP, React.js, Node.js**
 
 - 👯 I’m looking for an **apprenticeship contract starting in june 2023**
 
