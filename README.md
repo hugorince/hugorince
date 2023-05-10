@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Python, PhP, React.js, Node.js**
 
-- 👯 I’m looking for an **apprenticeship contract starting in june 2023**
+- 👯 I’m looking for an **one year apprenticeship contract**
 
 - 👨‍💻 All of my projects are available at [https://hugorince.github.io/](https://hugorince.github.io/)
 
