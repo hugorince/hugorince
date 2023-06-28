@@ -3,9 +3,7 @@
 
 - 🔭 I’m studying software development at **Ada Tech School**
 
-- 🌱 I’m currently learning **TypeScript, React.js, Express.js, Python, Php**
-
-- 👯 I’m looking for an **one year apprenticeship contract**
+- 🌱 I’m currently learning **TypeScript, React.js, Express.js, Python**
 
 - 👨‍💻 All of my projects are available at [https://hugorince.github.io/](https://hugorince.github.io/)
 
