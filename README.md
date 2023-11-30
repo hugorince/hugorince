@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">A student software developer from Paris</h3>
+<h3 align="center">A software engineer from Paris</h3>
 
-- 🔭 I’m studying software development at **Ada Tech School**
+- 🔭 I’m currently working as a junior front-end engineer at **Publicis Sapient**
 
-- 🌱 I’m currently learning **TypeScript, React.js, Express.js, Python**
+- 🌱 I’m currently working with **TypeScript, GraphQL, React.js**
 
 - 👨‍💻 All of my projects are available at [https://hugorince.github.io/](https://hugorince.github.io/)
 
