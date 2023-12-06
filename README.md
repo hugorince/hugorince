@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a junior front-end engineer at **Publicis Sapient**
 
-- 🌱 I’m currently working with **TypeScript, GraphQL, React.js**
+- 🌱 I’m currently working with **TypeScript, React, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://hugorince.github.io/](https://hugorince.github.io/)
 
