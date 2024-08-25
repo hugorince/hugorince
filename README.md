@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <h3 align="center">A software engineer from Paris</h3>
 
-- 🔭 I’m currently working as a Junior Software Engineer at [Publicis Sapient](https://www.publicissapient.fr/)
+- 🔭 I’m currently working as a Software Engineer at [Publicis Sapient](https://www.publicissapient.fr/)
 
 - 🌱 Current stack : **TypeScript, React.js, NextJS, GraphQL**
 
